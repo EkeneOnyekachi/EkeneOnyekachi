@@ -12,4 +12,4 @@
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different.
 
 
-[![Ekene's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkeneOnyekachi)](https://github.com/anuraghazra/github-readme-stats)
+[Ekene's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkeneOnyekachi&show_icons=true&theme=radical)
