@@ -13,6 +13,3 @@
 
 
 [![Ekene's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkeneOnyekachi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkeneOnyekachi&repo=https://github.com/EkeneOnyekachi/Digital_menu)](https://github.com/anuraghazra/github-readme-stats)
