@@ -10,4 +10,6 @@
 - 📫 How to reach me: [twitter](https://twitter.com/KukiWorldwide), [linkedin](https://www.linkedin.com/in/ekeneonyekachi/)
 - 😄 Pronouns: mr
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different.
--->
+
+
+[![Ekene's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkeneOnyekachi)](https://github.com/anuraghazra/github-readme-stats)
