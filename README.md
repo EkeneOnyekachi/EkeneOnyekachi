@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on OnVo a video streaming and sharing platform
 - 🌱 I’m currently learning frontend develoment(Javascript, ReactJS)
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m job hunting a role of a backend engineer
+- 🤔 I’m job hunting for the role of a backend engineer
 - 💬 Ask me about any tech related issues
 - 📫 How to reach me: [twitter](https://twitter.com/KukiWorldwide), [linkedin](https://www.linkedin.com/in/ekeneonyekachi/)
 - 😄 Pronouns: mr
