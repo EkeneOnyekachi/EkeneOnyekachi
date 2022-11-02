@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on OnVo a video streaming and sharing platform
+- 🔭 I’m currently working on 3RY. 3ry is an Inventory management  system API designed to track inventory levels, orders, sales and deliveries
 - 🌱 I’m currently learning frontend develoment(Javascript, ReactJS)
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m job hunting for the role of a backend engineer
