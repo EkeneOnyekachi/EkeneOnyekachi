@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on 3RY. 3ry is an Inventory management  system API designed to track inventory levels, orders, sales and deliveries
-- 🌱 I’m currently learning frontend develoment(Javascript, ReactJS)
-- 👯 I’m looking to collaborate on any project
+- 🔭 I’m currently working on an Inventory management software designed to track inventory levels, orders, sales and deliveries ect.
+- 🌱 I’m currently learning frontend develoment(Javascript,ReactJS)
+- 👯 I’m looking to collaborate on an educational product
 - 🤔 I’m job hunting for the role of a backend engineer
 - 💬 Ask me about any tech ALX and Udacity
 - 📫 How to reach me: [twitter](https://twitter.com/KukiWorldwide), [linkedin](https://www.linkedin.com/in/ekeneonyekachi/)
